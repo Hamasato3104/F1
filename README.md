@@ -1,2 +1,2 @@
 # F1
-F1 Forecasting 2025
+F1 2025 Prediction
